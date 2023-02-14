@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/RadixSort/blob/main/RadixSort.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/RadixSort/blob/main/RadixSort.ipynb)
 
 # まだクイックソート使ってるの？これからは基数ソートの時代
 
